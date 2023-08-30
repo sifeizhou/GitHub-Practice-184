@@ -51,7 +51,7 @@
 | Trevor Bunch            | Section 002       | TrevBunch            | https://github.com/TrevBunch/GitHub-Practice-184         |
 | Nayli Mohd Haniff       | Section 002       | NayliHaniff          | https://github.com/NayliHaniff/GitHub-Practice-184       |
 | Jack Engleman           | Section 002       | jackengleman         | https://github.com/jackengleman/Practice-STAT-184        |
-
+| Sifei Zhou              | Section 002       | sifeizhou            | https://github.com/sifeizhou/GitHub-Practice-184         |
 
 # Integration of RStudio with Git
 
